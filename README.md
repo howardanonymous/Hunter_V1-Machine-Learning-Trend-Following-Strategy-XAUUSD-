@@ -35,3 +35,19 @@
 * **時框**: H1 (小時級別交易)
 * **模型**: 隨機森林 (Random Forest)
 * **核心特徵**: `bb_width`, `rsi`, `ma_dist`, `hour` 等 10 項多維特徵。
+修改森林參數
+增加複利V2
+<div align="center">
+  <img src="01261139.png" alt="Hunter_V1 Equity Curve" width="800">
+  <p><i>圖 1：Hunter_V1 策略累計損益曲線 (1.2R 盈虧比環境)</i></p>
+</div>
+<div align="center">
+  <img src="01261140.png" alt="Hunter_V1 Equity Curve" width="800">
+  <p><i>圖 1：虛擬資金模擬 (3R 盈虧比環境)</i></p>
+</div>
+
+
+
+
+
+
